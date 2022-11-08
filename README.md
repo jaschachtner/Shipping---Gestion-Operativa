@@ -7,7 +7,7 @@ Contar con las siguientes librearias: threading, requests, time y os.path
 
 
 ## Uso
-We provide [script_parallel.py](script_parallel.py) script, which implements cli interface.  
+Se provee de [script_parallel.py](script_parallel.py) script, que resuelve lo solicitado en "202210 - ESP - Gestión Operativa: Challenge Técnico-funcional.docx"
 Ejecutar `python script_parallel.py
 
 
