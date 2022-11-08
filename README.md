@@ -14,6 +14,7 @@ Ejecutar `python script_parallel.py
 ### Datos
 #### Entrada
 Se requiere un archivo input.txt con el listado de Ordenes a procesar (Se añade un ejemplo en el repo)
+Se asume que dicho archivo se encuentra normalizado, sin duplicados y con ordenes en formato numerico.
 #### Salida
 Se generaran dos archivos output.csv y error.txt.
 En el primero, el listado de oredenes procesadas mientras que en el segundo se obtendran aquellas ordenes que no devolvieron id correcto.
